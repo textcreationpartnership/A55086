@@ -1,0 +1,368 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saint Pauls politiques, or, A sermon against neutrality preached at Margarets Westminster on the Lords-Day Decemb. 13, 1644, divers of the Honourable House of Commons being present / by Lawrence Palmer ...</title>
+            <author>Palmer, Laurence.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55086</idno>
+            <idno type="STC">Wing P250</idno>
+            <idno type="STC">ESTC R3579</idno>
+            <idno type="EEBO-CITATION">12186099</idno>
+            <idno type="OCLC">ocm 12186099</idno>
+            <idno type="VID">55792</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55792)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 115:4 or 232:E23, no 17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Saint Pauls politiques, or, A sermon against neutrality preached at Margarets Westminster on the Lords-Day Decemb. 13, 1644, divers of the Honourable House of Commons being present / by Lawrence Palmer ...</title>
+                  <author>Palmer, Laurence.</author>
+               </titleStmt>
+               <extent>[4], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Imprimatur Charles Herle"</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Religious aspects --  Biblical teaching.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55792:1"/>
+            <pb facs="tcp:55792:1" rendition="simple:additions"/>
+            <p>
+               <hi>Saint</hi> PAULS POLITIQVES, OR, A Sermon againſt NEUTRALITY;</p>
+            <p>PREACHED At <hi>Margarets</hi> Weſtminſter, on the LORDS-DAY Decemb. 13. 1644. Divers of the Honourable Houſe of Commons being preſent.</p>
+            <p>By <hi>Laurence Palmer,</hi> Rector of the Mediety of <hi>Gedling,</hi> in the County of <hi>Nottingham,</hi> And Captain of a Troop of horſe raiſed for the ſervice of the <hi>King</hi> and <hi>Parliament.</hi>
+            </p>
+            <q>
+               <bibl>Exod. 32.26, 27.</bibl>
+               <p>Moſes ſtood in the gate of the Camp, and ſaid, who is on the Lords ſide? Let him come unto me. And all the ſons of Levi ga<g ref="char:EOLhyphen"/>thered themſelves together unto him.</p>
+               <p>And he ſaid unto them. Thus ſaith the Lord God of Iſrael. Put every man his ſword by his ſide, &amp;c.</p>
+            </q>
+            <floatingText xml:lang="eng" type="imprimatur">
+               <body>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>Charles Herle.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>London Printed for <hi>Robert White, 1644.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:55792:2"/>
+            <pb facs="tcp:55792:2"/>
+            <head>To the Right Worſhipfull <hi>Gilbert Millington</hi> Eſquire, one of the Members of the Honou<g ref="char:EOLhyphen"/>rable Houſe of Commons.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">N</seg>Ext to the glory of God, the maine white at which all actions ought to be levelled: I have ever held the care of preſerving, advancing, and promoting the common good, the welfare of Church and State, is moſt noble, neceſſary, and beſt beſeeming a Chriſtian. A thing acknow<g ref="char:EOLhyphen"/>ledged by moſt, but practiſed by few, I had al<g ref="char:EOLhyphen"/>moſt ſaid none, and if I had, the Apoſtle would have borne me out, Phil. <hi>2.21. All ſeek their own, and none the things of Je<g ref="char:EOLhyphen"/>ſus Chriſt.</hi>
+            </p>
+            <p>Truly it hath been matter of no ſmall griefe, and trouble unto me of late, to behold and take notice of the ſtrange declination, and degeneration of mens ſpirits (to ſpeake nothing of the Epidemicall diſeaſe of curſed Neutrality, long ſince ſpread through the whole Kingdom) the lukewarme, heartleſſe, indifferenſie, the palpable partiality, the groſſe diſſimulation and hypocriſy of thoſe, who pretend wholy the common cauſe, and intend nothing but their private ends, diſcover themſelves every where too apparently, in theſe times of the Church and Kingdomes greateſt calamity. A clearer proofe whereof we cannot have, then dayly experience, for who ſees not how many of thoſe, who with much zeal and impe<g ref="char:EOLhyphen"/>tuous violence, were all for the publique, whileſt pay and profit, honour, and applauſe, good ſucceſſe and victory attended the cauſe of God, but when it and thoſe were parted, how ſhamefully have they deſerted it in the open field. The more then certainly to be admired, and for ever honoured, are thoſe, who continue con<g ref="char:EOLhyphen"/>ſtant in the publique ſervice, and will not leave the cauſe, no not when that ſeemes to leave them, and theirs, to the mercileſſe fury of the enemy; Who are ſo far from cooling by diſaſters, that they are but as the froſt in winter, to the fire, which ſerve to intend their heat and reſolution; Of which number, Sir, the Town and County that choſe and ſent you hither, eſteeme you to be; Who, of all that were choſen throughout the whole County of <hi>Nottingham,</hi>
+               <pb facs="tcp:55792:3"/>onely ſtand for the welfare both of it and the whole Kingdom. The Lord who hath hitherto graciouſly kept up your Spirit; Will I doubt not, bleſſe and proſper you, and at laſt crowne your faith<g ref="char:EOLhyphen"/>fullneſſe, and unwearied conſtancy.</p>
+            <p>It was your requeſt, and the importunity of divers Friends cauſed me to preach this Sermon; But the ſending of it to pub<g ref="char:EOLhyphen"/>lique view, was by the earneſt ſollicitations, and undeniable in<g ref="char:EOLhyphen"/>treaty of many, both Friends and Strangers; yet not without your conſent and approbation; And indeed the rather do I full fill their deſire, and preſent it to you becauſe it is well known to all that know you, that your practiſe is a lively expreſſion of what I preached, which I wiſh for the imitation and encouragement of others, may be as publique as this paper; my diſcourſe ſhewes what in theſe times, ſhould be done, your example and practiſe lets the world ſee what is, and may be done.</p>
+            <p>Another neceſſity alſo is laid upon me, to commit this ſhort and unpoliſhed Sermon to the Preſſe. Divers that heard it preached, profeſſed they were much affected with it, and told me, that it a<g ref="char:EOLhyphen"/>wakned and rouſed up ſome, that were grown cold, and indifferent, to zealous reſolution, to ſet upon the work of the Lord with more diligence, and therefore they concieved, that if the preaching, much more the printing might be of ſingular uſe in theſe cold declining times. Now if I had refuſed herein to ſatisfie them; My mouth would have been ſtopt with this <hi>Dilemma</hi> and unanſwerable ar<g ref="char:EOLhyphen"/>gument. That ſeeing my <hi>Theame</hi> and whole diſcourſe, tends wholy to invite and urge all ſorts within their ſpheares to be as ſerviceable as may be, for the promoting of the publique; If the printing may conduce more to this end, then the preaching, there would have been a manifeſt jarre betwixt my preaching and pra<g ref="char:EOLhyphen"/>ctiſe, if I had denyed. Well, the bleſſing of God go with it, and make it effectuall for the encouraging of the faithfull and con<g ref="char:EOLhyphen"/>ſtant, the inciting and awakening the drouſie and indifferent, the ſhaming of the Neuter, and the diſcovery of the hypocrite. Sir, This is the prayer of him, who in what he is able deſires ever</p>
+            <closer>
+               <signed>To ſerve you, and the publique, <hi>Laurence Palmer.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:55792:3"/>
+            <head>Saint <hi>Pauls</hi> POLITIQUES: Or, A Sermon againſt Neutrality, deli<g ref="char:EOLhyphen"/>vered at <hi>Margarets Weſtminſter,</hi> upon</head>
+            <epigraph>
+               <q>
+                  <bibl>PHIL. 2.4.</bibl>
+                  <p>Looke not every one on his own things, but every man alſo on the things of others.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">N</seg>Ot to tire your patience with any cu<g ref="char:EOLhyphen"/>rious diviſion, either of the Epiſtle in generall, or of this Chapter in parti<g ref="char:EOLhyphen"/>cular: nor with any tedious cohe<g ref="char:EOLhyphen"/>rence of theſe words, with thoſe which have gone before. Be pleaſed to take notice, that the Apoſtle in this Chapter from the firſt verſe to the 12. doth exhort the Philippians to unity and agreement; he layes down the means
+<pb n="2" facs="tcp:55792:4"/>how to attain it, namely by humbleneſſe of minde after the example of Jeſus Chriſt, <hi>ver.</hi> 1.2, 3, 5, &amp;c. Now becauſe my Text is (as it were) interwoven with this Argument. I deſire you to obſerve, ſome<g ref="char:EOLhyphen"/>thing from the Apoſtles method.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>That pride of Spirit is the ground of ſtrife and con<g ref="char:EOLhyphen"/>tention.</hi>
+            </p>
+            <p>So far as a man is proud, he is contentious.</p>
+            <p>It is a Doctrine from the grnerall, I will be very briefe in the handling of it. It is confirmed,</p>
+            <p>Prov. 13.10. <hi>Only by pride comes contention.</hi>
+            </p>
+            <p>
+               <hi>Example,</hi> In the Apoſtles of Chriſt, Luk. 22.24. <hi>When once they began to ſeek for priority of place, by and by they were at ods.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>1</label> For information, To let us ſee the true cauſe of all the contentions in the world; either in Church or State, either publick or private, to ariſe only from <hi>Pride.</hi> The ſin of this age is <hi>Pride,</hi> and the <hi>Pride</hi> of this age is intolerable. Theſe be Saint Pauls <hi>Tem<g ref="char:EOLhyphen"/>pora noviſsima,</hi> the Winter of the world: Wherein pride and contentions do daily meete each other. 2 <hi>Tim.</hi> 3.12.</p>
+            <p>In the Church; the <hi>pride</hi> of ſin carries them ſo far, as that they would all be Apoſtles, they would all be Prophets, and teachers, <hi>Docerent antequam di<g ref="char:EOLhyphen"/>dicerunt.</hi>
+            </p>
+            <p>That <hi>Arius</hi> may maintaine his damnable errour, <hi>Anno</hi> 358. ſince revived, ſayes, that God did reveal it to him: and <hi>Montanus</hi> called himſelf <hi>Paracletum,</hi> or the <hi>holy Ghoſt.</hi> Here is <hi>pride</hi> with a witneſſe, now what contentions did ariſe from hence, the hiſtory of <hi>Theodoret,</hi> and others ſet forth. I ſuppoſe, it may
+<pb n="3" facs="tcp:55792:4"/>be truly affirmed, that it is nothing but <hi>Pride</hi> and ſelf conceitedneſs, that make ſo many become Separa<g ref="char:EOLhyphen"/>tiſts, from whence ariſeth ſo many hot contentions in theſe dayes.</p>
+            <p>In the State or Common-wealth, <hi>pride</hi> is the cauſe of all Contentions. The ſervant would be as his Maſter, the peaſant as the Prince, the Cobler as the Courtier, <hi>Currus ſequitur Curiam,</hi> and hereby all things are brought into confuſion. What is the ground of diſaffection amongſt Miniſters? Diſlike and jarring amongſt Commanders? Falling out a<g ref="char:EOLhyphen"/>mongſt ſouldiers? ſcolding amongſt Neighbours? but onely <hi>pride,</hi> not having learned this of the Apoſtle ver. 3. <hi>Let nothing be done through ſtrife or vain glory, but in lowlineſſe of minde, let each eſteeme other better then themſelves.</hi> And therefore</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> I beſecch you be perſwaded to take heed of this tympany of <hi>Pride,</hi> that contentions may ceaſe: <hi>God will pull down the mighty from their ſeate, but he will exalt the humble and meek: he will feed the hungry with good things, but the rich be will ſend empty away. Pride</hi> wil have a fal, a great pride wil have a greatfal.</p>
+            <p>
+               <hi>Herod</hi> by his <hi>Pride</hi> fell from a throne of gold, to be eaten of Lice, a great fall! <hi>Nebuchadnezzar</hi> by his <hi>Pride</hi> fell from the State of a King to the quality of a beaſt, and became like an Oxe that eateth graſſe: <hi>Adam</hi> fell from innocency to mortality: And yet ſee a greater fal then all theſe; By <hi>Pride</hi> the An<g ref="char:EOLhyphen"/>gels fell from heaven to hel, from felicity to miſery, are now <hi>reſerved in chaines under darknes to the judge<g ref="char:EOLhyphen"/>ment of the great day,</hi> Jude ver. 6. And therefore take heed of it. And that our contentions, the fruits of our <hi>Pride</hi> may determine.</p>
+            <pb n="4" facs="tcp:55792:5"/>
+            <list>
+               <item>1. Paſſe by an offence, it is a wiſe mans glory, <hi>Prov.</hi> 19.11. And it is St. <hi>Pauls</hi> command, <hi>Col.</hi> 3.13.</item>
+               <item>2. Forget an injury, <hi>Lev.</hi> 19.18. It is ſtoried of <hi>Phocion</hi> in <hi>Plutarch,</hi> that being rail'd upon in the night by a ſort of baſe fellowes, he gave his man order to light them home. And of <hi>Iulius Caeſar</hi> it is reported, that <hi>nihil praeter injurias obliviſci ſolebat:</hi> he was ne<g ref="char:EOLhyphen"/>ver wont to forget any thing but injuries.</item>
+               <item>3. Part with ſome of your right, ſo did <hi>Abraham</hi> for quietneſſe ſake, when he was to deale with his kinſman <hi>Lot, Gen.</hi> 13.8, 9. and <hi>Paul</hi> with <hi>Philemon.</hi> In that Epiſtle to <hi>Philemon</hi> ver. 8, 9.</item>
+               <item>4. Be ready to requite good for evil to ſuch as have done us wrong, <hi>Prov.</hi> 25.21, 22. and <hi>Rom.</hi> 12.20.</item>
+            </list>
+            <p>Theſe things might be enlarged, but it is a doctrine from the generall. I therefore paſſe it, and come more particularly to the words of the Text.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c.</p>
+            <p>
+               <hi>Looke not every one on his, &amp;c.</hi>
+            </p>
+            <p>I may fitly ſtile my Text, St. <hi>Pauls Politiques.</hi> In which we have:</p>
+            <list>
+               <item>1. His little care for his own private; <hi>Look not, &amp;c.</hi>
+               </item>
+               <item>2. His great care of the publike: <hi>But every one, &amp;c.</hi>
+               </item>
+            </list>
+            <p>I know the words will admit of a ſubdiviſion, but I cannot have time to proſecute theſe generalls ſo fully as I can deſire.</p>
+            <p>The words are very plain, not any thing difficult in them, unleſſe you inquire what it is to <hi>looke upon.</hi> The originall word comes from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Circum<g ref="char:EOLhyphen"/>ſpicio,</hi> whence comes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which ſignifies <hi>Meta, Scopus ad quem ſagittarii collimant &amp; tela ſua dirigunt:</hi> The marke at which Archers aime, and direct all
+<pb n="5" facs="tcp:55792:5"/>their Arrowes. So that when the Apoſtle ſaith, <hi>Look not every one, &amp;c,</hi> It is all one as if he had ſaid thus, (My bloved Philippians) as you deſire to approve your ſelves followers of Chriſt, and deſirous of true Peace; It is your duty, not ſo much to propoſe your own private commodity to your ſelves in your un<g ref="char:EOLhyphen"/>dertakings, at the ſcope and end of your actions: but your care and ayme ſhould be at, and for the welfare of others.</p>
+            <p>Hence the <hi>Doctrine,</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>It is the duty of all Chriſtians to have reſpect unto, and carefully to look after the good of the publike, as well, yea rather then their own private and particular.</hi>
+            </p>
+            <p>Care muſt be had for every mans private, for he that doth not take care of his own, and <hi>eſpecially thoſe of his own houſe, hath denyed the faith,</hi>
+               <note place="margin">1 Tim. 5.8.</note> 
+               <hi>and is worſe then an Infidell:</hi> But this care muſt not juſtle out the care of the publike; Nay rather, <hi>Cedunt privata pub<g ref="char:EOLhyphen"/>licis.</hi> But for proofe of the point ſo 1 Cor. 10.24. <hi>Let no man ſeek his own, but every man anothers wealth.</hi> In 2 Cor. 11.28, 29. ſo a plaine proofe, <hi>Beſides thoſe things that are without, that which cometh upon me dayly, the care of all Churches,</hi> v. 29. <hi>Who is weake, and I am not weake? Who is offended, and I burne not?</hi> In which place you may obſerve, how that holy ſympathy that Saint <hi>Paul</hi> had towards the State of the Church of God in generall, begate in him a care of all Churches; and that in reſpect of his outward and inward carriage towards them, for he ſaith, <hi>Beſide the things that are without, &amp;c.</hi>
+            </p>
+            <p>It is his command to the <hi>Galatians</hi> 6.10. <hi>Do good unto all.</hi>
+            </p>
+            <pb n="6" facs="tcp:55792:6"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Examp. </seg>
+               </label> We have divers examples that do clearly illu<g ref="char:EOLhyphen"/>ſtrate this.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Faith, firſt, <hi>Abraham</hi> the father of the faithfull, <hi>Gen.</hi> 14.14. <hi>Abraham</hi> no doubt might have lived in his own houſe, and defended that; or he might have complyed with <hi>Chedorlaomar,</hi> and with <hi>Amraphel,</hi> &amp;c. (Who would have been glad if he would have ſate ſtill) But <hi>Abraham</hi> is a man of a more publike ſpirit, he ſcornes any complyance with ſuch curſed enemies of God, and his cauſe hates neutrality, and therefore muſters up, and marches out with his own huſhold ſervants, 318. and doth great ſervice for the Church of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Remember the example of holy <hi>Moſes:</hi> You may read what great offers God made him, what great good God would do for him in his own par<g ref="char:EOLhyphen"/>ticular: But when <hi>Moſes</hi> lookes on the miſery was likely to come on the people of God, by that his preferment, he modeſtly, and abſolutely refuſeth the ſame at Gods hands. You may ſee it <hi>Exod.</hi> 32.9, 10, 11. &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Look on the example of <hi>Nehemiah,</hi> What place of imployment he had in reſpect of his own particular, you may gueſſe by that, <hi>Nehe.</hi> 1. <hi>ver. laſt,</hi> he was the Kings Cupbearer, and yet he is very ſad and diſcon<g ref="char:EOLhyphen"/>tented, <hi>v.</hi> 4. the reaſon of it, is the conſideration of the deplored State of the people of God, for ſome had told him, that the remnant that were left of the Captivity, were in great affliction, and reproach; the wall of <hi>Ieruſalem</hi> was broken down, and the gates thereof were burnt with fire, <hi>ver.</hi> 4. upon this ſee the good mans ſpirit; The King obſerving his diſcon<g ref="char:EOLhyphen"/>tent,
+<pb n="7" facs="tcp:55792:6"/>and finding the reaſon of it, gives him a Com<g ref="char:EOLhyphen"/>miſſion to be Governour of <hi>Ieruſalem;</hi> Well, when he comes there and hath his power in his hand, doth he ſeek himſelf too much, his own Coffers, to prefer his own friends? or is his care to advance the pub<g ref="char:EOLhyphen"/>like? I wiſh all Governours and others, would read his ſtory, and follow his example. <hi>Neh.</hi> 5. from the 14. <hi>ver.</hi> to the end of the Chapter.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> One inſtance more which may ſeeme to ſuit with the conditions of the greateſt Ladyes or other wo<g ref="char:EOLhyphen"/>men here preſent, and it is of Heroicke Queen <hi>Heſter,</hi> Shee might have been quiet and contented with the Kings favour, being aſſured that <hi>Hamans</hi> bloody po<g ref="char:EOLhyphen"/>licy againſt the Jewes, could not have pluckt her from the Kings boſome; ſeeing ſhe was ſuch a one as the King delighted in: But alas her people, the people of God, were in great diſtreſſe and perplexi<g ref="char:EOLhyphen"/>ty, which makes her ſhe cannot be quiet, and there<g ref="char:EOLhyphen"/>upon puts forth her ſelf to do ſervice for the pub<g ref="char:EOLhyphen"/>lique, <hi>Heſt.</hi> 4.15, 16.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſons. </seg>
+               </label> The firſt reaſon or ground of this Doctrine, may be taken from common nature, or naturall relation we ſtand in: for even nature it ſelf hath indebted e<g ref="char:EOLhyphen"/>very man to his Nieghbour one to another, <hi>Non nobis ſolum nati ſumus,</hi> &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſecond reaſon taken from our ſpirituall relati<g ref="char:EOLhyphen"/>on, in which we all ſtand bound: And here the rule is, that ſpirituall relations tye men more cloſe one to another, then naturall relations do or can; This ſpeciall relation, ſtands in a fourefold reſpect.</p>
+            <list>
+               <item>1. Of God the Common father of us all.</item>
+               <item>2. Of Chriſt our head and elder brother.</item>
+               <pb n="8" facs="tcp:55792:7"/>
+               <item>3. Of the Church, the Common Mother to us all.</item>
+               <item>4. One of another, as partaking all of the ſame common ſpirituall Ordinances, &amp;c,</item>
+            </list>
+            <p>And therefore reaſon why not any of us ſhould chiefly ſeek his own, but very man alſo the things of others.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. The third reaſon drawn from the end of our re<g ref="char:EOLhyphen"/>demption. <hi>That grace of God that bringeth ſalvation, will teach us to deny ungodlineſſe, and worldly luſts, and to live ſoberly, righteouſly, and godly, in the preſent evil world,</hi> Tit. 2.11, 12. As we muſt live ſoberly in re<g ref="char:EOLhyphen"/>ſpect of our ſelves, godly in reſpect of God: ſo we muſt live righteouſlytowards others, profitably in re<g ref="char:EOLhyphen"/>ſpect of the publique, every noble ſpirit labouring to preſerve, maintain, &amp; bring honour to his own family.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The 4. Reaſon drawn from that private intereſt, every man hath in the publique. It was ſo to the Jewes when they were in <hi>Babylon, Ierem.</hi> 29.7. they were to pray for the peace of the City, whither they were carryed captive, becauſe in the peace thereof they ſhould have peace.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſes. </seg>
+               </label> The uſes of the point ſhall be firſt, for information, 2. For Reprehenſion. 3. Exhortation. 4. For Conſo<g ref="char:EOLhyphen"/>lation. If this be a truth, that it is a duty that lyes upon all Chriſtians to have reſpect unto, and care<g ref="char:EOLhyphen"/>fully to work after the good of the publique, aſwell, yea rather then their own private and particular. Then,</p>
+            <p n="1">1. It may ſerve to let us ſee that the actions of many men who neglecting their own things, and wholy look after the things of others are warrantable; And that ſuch men as ayme more at the publique then
+<pb n="9" facs="tcp:55792:7"/>their own private, are not to be condemned. I re<g ref="char:EOLhyphen"/>member what <hi>Vriah</hi> ſaid to <hi>David</hi> 2 <hi>Sam.</hi> 11.11. <hi>The Arke, and Iſrael, and Iudah, are in tents: and my Lord</hi> Ioab, <hi>and the ſervants of my Lord are in the field, and ſhal I then go into my houſe to eate, and to drink, and to lye with my wife? As thou liveſt, and as thy ſoul liveth, I will not do this thing,</hi> I cannot find <hi>Vriah</hi> any where condemned for this his reſolution; Nay the ſpirit of God doth give a very large encomium of ſuch a publique ſpirit, as you may ſee <hi>Iudg.</hi> 5.9. It is the ſpeech of <hi>Deborah</hi> concerning the voluntiers in the ſervice of the Church and State. My heart is to<g ref="char:EOLhyphen"/>words the Governours of Iſrael, that offered them<g ref="char:EOLhyphen"/>ſelves willingly: Bleſſe ye the Lord. And Saint <hi>Paul</hi> in this Chapter <hi>ver.</hi> 29, 30. ſpeaking of <hi>Epaphro<g ref="char:EOLhyphen"/>ditus</hi> a faithfull Miniſter, commands the <hi>Philippians</hi> to recieve ſuch in the Lord, and to hold ſuch in re<g ref="char:EOLhyphen"/>putation. Becauſe for the work of Chriſt, he was nigh to death, not regarding his life to ſupply your lack, of ſervice. And therefore ſurely men of ſuch publique ſpirits, ſhould not be diſheartned with any tediouſneſſe, or burthenſomneſſe in the work, nor diſcontented by ſuch as have imployed and called them forth for the ſervice; It is an imployment very warrantable and agreeable to Chriſtianity.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> And therefore Secondly it may ſerve as a uſe of juſt reprofe and terrour: unto all thoſe that ſing this ſong, <hi>Vnuſquiſque ſibi,</hi> Every man for himſelf, and God for us all. No my Brethren, I beſeech you know, that where every man is for himſelf, the Devil will be for all, for conſider you ſin. 1. Againſt the Law of Nature, 2. Againſt ſpirituall relations. 3.
+<pb n="10" facs="tcp:55792:8"/>Againſt the end of our Redemption: 4. Againſt the publike.</p>
+            <p>And yet alas, how many be there, that let a King<g ref="char:EOLhyphen"/>dom ſink or ſwim, ſo they may be in peace at home, they matter not.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Such as daily ſend out Scours, and lie Perdue, to diſcover which is the ſtronger ſide, and then they will ſhew themſelves juſt like <hi>Iſachar,</hi> Gen. 49.14, 15. They are ſtrong Aſſes, couching down between two burdens, ſeeing reſt to be good, and the land plea<g ref="char:EOLhyphen"/>ſant, they are contented to bow their ſhoulders to bear, and ſo become ſervants unto tribute.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Or elſe, Secondly, they are like the men of <hi>Laiſh, Iudges</hi> 18.7. Careleſſe, quiet, and ſecure, they ſit (it may be under their own Vine, &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Or: Thirdly, that which is worſe, they jeer and ſcoffe at ſuch as have ſpent themſelves, and eſtates to maintain the publike, and (it may be) to preſerve their private, and particular eſtates; juſt as the men of <hi>Succoth</hi> and <hi>Penuel</hi> dealt with <hi>Gideon,</hi> Judg. 8.5, 6.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> And Fourthly, that which is yet more intolerable baſeneſſe, in the ſpirits of ſome, who having choſen men of parts and abilities, for the publike ſervice: And having ſent them from their Countries, their wives, and children, and eſtates, deare to them: who have been imployed, and faithfully diſcharged the greateſt places for the Towns or Counties where they lived, ſhall be not only ſhamefully deſerted, but likewiſe maligned; ſcoffed at hated, and oppo<g ref="char:EOLhyphen"/>ſed <hi>by ſcornfull men, who bring the City into a ſnare,</hi> Prov. 29.8. and theſe not our profeſſed enemies: but ſuch as pretend themſelves to be for the ſame Cauſe.
+<pb n="11" facs="tcp:55792:8"/>But I wiſh ſad experience had not taught me at this time to ſpeak ſo much.</p>
+            <p>To theſe, if any here preſent, I ſhall humbly de<g ref="char:EOLhyphen"/>ſire to commend theſe few conſiderations.</p>
+            <p n="1">1. Let them conſider that they lie under a moſt heavy curſe, <hi>Iudges</hi> 5.23. <hi>Curſe ye Meroz</hi> (ſaid the Angel of the Lord) <hi>Curſe ye bitterly the inhabitants thereof:</hi> Why, Alas what hath <hi>Me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oz</hi> done? <hi>She came not to the help of the Lord, to the help of the Lord againſt the mighty, Meroz</hi> is not in Armes againſt the Lord, yet <hi>curſe ye Meroz.</hi> Theſe Citizens of <hi>Meroz</hi> delighted more in the bleating of ſheep, in the low<g ref="char:EOLhyphen"/>ing of their oxen, to enjoy their own at home, then to engage themſelves, or their eſtates for the pub<g ref="char:EOLhyphen"/>like: They would willingly ſleep in a whole skin: therefore <hi>Curſe ye Meroz:</hi> I beſeech you take notice of the wretched ſtate of a curſed Neuter: ſet out,</p>
+            <p n="1">1. The curſe of the Church lies on him: <hi>Curſe ye Meroz.</hi>
+            </p>
+            <p n="2">2. The Curſe of God lies on him ſaid the Angel of the Lord; and then the bitterneſſe of the Curſe; <hi>Indefinenter maledicite,</hi> or <hi>omnio maledicite, Curſe ye bitterly:</hi> So that this cannot but prove terrible to all thoſe that will not be perſwaded, out of reſpect to their own baſe private ends, and aimes, to labour for the upholding of the publike.</p>
+            <p n="2">2. I wiſh that they would conſider that in this ve<g ref="char:EOLhyphen"/>ry neglect of the publike, they are enemies to their own private and particular. The ſtate of the King<g ref="char:EOLhyphen"/>dom is called <hi>Reſpublica,</hi> the Common wealth: In which every private and particular man hath his in<g ref="char:EOLhyphen"/>tereſt: And therefore, in whatſoever thou, or I ſhall
+<pb n="12" facs="tcp:55792:9"/>neglect the publike, we do therein neglect our own private and particular.</p>
+            <p n="3">3. Let them conſider, that herein they ſin even a<g ref="char:EOLhyphen"/>gainſt Chriſt himſelf. I make it a ſin againſt the Goſpel, Chriſt hath ſaid it, <hi>Mat.</hi> 12.30. <hi>He that is not with me is againſt me, and he that gathereth not with me ſcattereth abroad:</hi> All the world is divided into two ſquadrons: Thoſe that are aſhamed of Chriſt here, Chriſt will be aſhamed of them hereafter, <hi>Mark.</hi> 8. laſt, <hi>Whoſoever therefore ſhall be aſhamed, &amp;c.</hi>
+            </p>
+            <p n="4">4. Let them conſider that for the moſt part none are worſt dealt with, then your halting Neuters, men of ſuch baſe and private ſpirits: That we (that are imployed abroad in the ſervice of the Kingdom) ſee it by experience, that both ſides fall upon them, and neither ſide will protect them: Memorable is that ſtory, <hi>Iudges</hi> 8.5, 6. &amp;c. It was thus, <hi>Gideon deſires food of the men of Succoth for his faint and weary Soul<g ref="char:EOLhyphen"/>diers,</hi> they deny it him, and not only ſo, but jeere him; Why ſay they, <hi>Are the hands of Zeba, and Zal<g ref="char:EOLhyphen"/>munna now in thy hands, that we ſhould give bread unto thine Army?</hi> Their meaning is this, if thou hadſt con<g ref="char:EOLhyphen"/>quered <hi>Zeba</hi> and <hi>Zalmunna,</hi> then we would joyne with thee, but untill then, it cannot be ſafe for us, leaſt they ſhould fall upon us: What is the iſſue of this Neutrality? I pray ſee <hi>Gideon</hi> falling upon them the Princes of <hi>Zeba</hi> and <hi>Zalmunna</hi> not able or deſi<g ref="char:EOLhyphen"/>rous to relieve and ſuccour them, <hi>ver.</hi> 15, 16, 17.</p>
+            <p>So that theſe things conſidered, I hope you will in time be affrighted out of your curſed Neutrality and baſe privateneſſe of Spirits.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> And therefore Thirdly, it may ſerve by way of
+<pb n="13" facs="tcp:55792:9"/>Exhortation, to perſwade us to two things.</p>
+            <p n="1">1. That you would think well of men of publike ſpirits.</p>
+            <p n="2">2. That you would labour to get publike ſpirits your ſelves: for firſt, if it be our duties to have re<g ref="char:EOLhyphen"/>ſpect unto, and carefully to look after the good of of the publike; as well, yea rather, then our own private or particular: Then I humbly beſeech you all, let men of publike ſpirits be precious in your e<g ref="char:EOLhyphen"/>ſteeme, and do not thinke they go beyond their bounds, when you ſee them enter upon ſuch actions for the publike, as it may be, do intrench upon ſome mens private, and particular: (you know) when the Town is on fire, every man hath leave to run into his neighbors houſe to break open Cheſts, to throw out Trunks, to ſave what goods he can. Something (queſtionleſſe) may be done when the Kingdom, the State, the Church, is all in a combuſtion for the ſafety of the publike, which at other times may be more then queſtionable.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Yea, but if ſome men had not been ſo buſie in publike affairs: We might have enjoyed Peace till this day?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer firſt, by way of concluſion; had not <hi>Shadrach, Meſhach,</hi> and <hi>Abednego</hi> withſtood the Ido<g ref="char:EOLhyphen"/>latrous decree of King <hi>Nebuchadnezzar, Dan.</hi> 3. All the people of the land had been bound to have fal<g ref="char:EOLhyphen"/>len down and worſhipped his golden Image. Had it not been for <hi>Daniel,</hi> who ſtood up for the priority of Gods worſhip; there had been no prayer made, but what others ſhould put into their mouths: I confeſſe if there had not been ſome ſuch <hi>Shadrachs,</hi> &amp;c. ſome
+<pb n="14" facs="tcp:55792:10"/>ſuch <hi>Daniels</hi> in our Kingdom, we might have had peace, but I fear little or no holineſſe would have been left amongſt us.</p>
+            <p>But 2. I anſwer, and deny the objection, for that in theſe miſerable, ſad, and diſtracted differences, we are not the Plantiffs, we are defendants, only I beſeech you read, <hi>Gen.</hi> 26.18. &amp;c. There is a conten<g ref="char:EOLhyphen"/>tion falls out between the <hi>Philiſtines,</hi> the inhabitants of <hi>Gerar,</hi> and <hi>Iſaac,</hi> and it is about wells of water which <hi>Abraham</hi> (<hi>Iſaacs</hi> father) had digged; the men of <hi>Gerar</hi> will have the Wells, <hi>Iſaac</hi> will not ſo part with his right; Now if the contention becomes ve<g ref="char:EOLhyphen"/>ry hot, I pray conſider who is in fault? I know you can eaſily apply theſe to our preſent condition: And I deſire you would let us not part with thoſe wells of water, thoſe liberties, and Priviledges, which our fathers purchaſed for us, to the <hi>Philiſtines,</hi> but let it coſt them ſomething: And therefore notwithſtanding this objection, I ſhall again, and again intreat you to have a high eſteem of all thoſe publike ſpirits, that either are, or have been faithfully imployed in, and for the Parliament.</p>
+            <p>Eſpecially now at this time, ſeeing they have vo<g ref="char:EOLhyphen"/>ted themſelves out of all their places of honour, and profit, that they more freely attend the buſineſſe of the Kingdom to be agitated in the houſes. And for that; Firſt, their imployment is for the Church: It is Church work they are about, to caſt out all manner of Superſtitions, and ſuperſtructions; and to eſtabliſh a pure worſhip and ſervice of God.</p>
+            <p>And ſecondly, their imployment is for the State, it is for your lives, and Liberties, it is for your Rights
+<pb n="15" facs="tcp:55792:10"/>and Priviledges: to bring to condigne and deſerved puniſhment, all thoſe that have hatched and acted evil againſt you, And ſhall we think or ſpeak evil of theſe? Nay,</p>
+            <p n="2">2. Rather, I beſeech you in the ſecond place, be exhorted, and perſwaded every one of you to labour for publike Spirits your ſelves: You ſee it is your du<g ref="char:EOLhyphen"/>ties: I might urge many Arguments, or motives hereunto.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argu. </seg>1</label> It is the next way to enoble your ſelves. It makes you all Princes, <hi>Pſal.</hi> 47. <hi>ult.</hi> Our Tranſlation reads it. <hi>The Princes of the people are gathered together, even the people of the God of Abraham:</hi> The Margine out of the Hebrew reads it, <hi>The voluntary of the people are gathered unto the people of the God of Abraham.</hi> Note that thoſe who voluntarily offer themſelves, to aſſiſt the people of the God of <hi>Abraham,</hi> are ſtiled <hi>Princes:</hi> It was the voluntary offring themſelves did enoble <hi>Zebulun</hi> and <hi>Nephtali, Iudges</hi> 5.18.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> I beſeech you conſider it is the end of all our na<g ref="char:EOLhyphen"/>turall abilities: <hi>Partim patria, partim parentes,</hi> &amp;c. There is no creature that is made for it ſelfe, none acts for it ſelfe, none lives to it ſelfe. The ſheepe, the Bees, the Birds, the Beaſts, pay tribute of their labour to man: <hi>Sic vos non vobis, &amp;c.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> It is very profitable to a mans ſelfe, for whatſo<g ref="char:EOLhyphen"/>ever thou, or I, or any man or woman ſhall adven<g ref="char:EOLhyphen"/>ture in the publike Cauſe: we do thereby ſecure, and improve not only that part of our eſtates, but alſo in all probability, all the reſt of our private intereſts.</p>
+            <p>Me thinks, if I were to reaſon the caſe with ſome men of private ſpirits, My queſtion ſhould be, what
+<pb n="16" facs="tcp:55792:11"/>intereſt can any man have, or promiſe himſelf in his private or particular, when the publique is loſt? Every mans Cabine in the ſhip conſiſting in the ſafe<g ref="char:EOLhyphen"/>ty of the ſhip. If the ſhip ſinck, what is become of any mans particular cabine? I remember what <hi>Iere<g ref="char:EOLhyphen"/>my</hi> ſaid to <hi>Baruch,</hi> Jere. 45.4, 5. <hi>The Lord faith thus, Behold, that which I have built I will breake down, and that which I have planted I will pluck up, even this whole land; And ſeekeſt thou great things for thy ſelf? ſeek them not.</hi> And I wiſh it may be ſpoken to all the na<g ref="char:EOLhyphen"/>tion: God is breaking down, God is plucking up, I intreate you then let none of us be <hi>ſeeking great things for our ſelves.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Conſider that as this is very honourable in a mans life, as who can remember <hi>Abraham, Moſes</hi> and <hi>Ne<g ref="char:EOLhyphen"/>hemiah,</hi> and <hi>Heſter?</hi> But he hath precious thoughts of them? ſo it cannot but afford a man much com<g ref="char:EOLhyphen"/>fort when he ſhall come to dye, and all other Com<g ref="char:EOLhyphen"/>forts in reſpect of wordly things fayle him, and for<g ref="char:EOLhyphen"/>ſake him; See this in <hi>Hezekiah</hi> a great Stateſman <hi>Iſay.</hi> 38. <hi>Remember (now) O Lord I beſeech thee how I have walked,</hi> &amp;c. And in <hi>Nehemiah</hi> a great Gover<g ref="char:EOLhyphen"/>nour, in the forequoted <hi>Neh.</hi> 5. where after he had remembred what great care he had of the publique, and how he had ſpent his ſtrength and eſtate in the ſervice thereof, he concludes with this; <hi>Thinke upon me my God, for good, according to all that I have done for this people.</hi> And in this ſence I ſuppoſe Saint <hi>Paul</hi> may be underſtood, 2 Corin. 1.12. <hi>For our rejoycing is this, the teſtimony of our Conſcience, that in ſimplicity and godly ſincerity, not in fleſhly wiſdome, but by the grace of God, we have had our converſation in the world,
+<pb n="17" facs="tcp:55792:11"/>but more abundantly to you-wards.</hi> Where amongſt other Characters, of a converſation that can afford comfort and rejoycing to a mans conſcience, this is one, that he hath been beneficiall to others. So that all theſe conſiderations laid together, I hope there are many will be parſwaded to labour for more pub<g ref="char:EOLhyphen"/>lique ſpirits for the cauſe of God then hitherto they have had.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But how ſhall a man get this publique ſpiritedneſſe, which is a duty ſo neceſſary?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> If we will be ſo indeed, take theſe four directions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Direct. </seg>1</label> We muſt needs become good men, before ever we can be truly publique ſpirited men. Naturally a man is his own <hi>Alpha</hi> and <hi>Omega. Nemo ſapit qui ſibi non ſapit,</hi> is a proverb in nature. It is nothing but grace in the ſoul, that doth enlarge both the heart and hand to ſeek, or do good to others, it were eaſy to prove it, both by the examples of all thoſe good Stateſmen, formerly mentioned, <hi>Abraham, Moſes, Ne<g ref="char:EOLhyphen"/>hemiah, Hezekiah,</hi> &amp;c. and ſhew what good men they were, and alſo by the examples of all thoſe Kings and Councellours that have brought ruine on their States and Kingdomes, <hi>Jeroboam, Manaſſes,</hi> &amp;c. and ſhew what wicked men they were, the Apoſtle <hi>Paul</hi> doth hint ſuch a thing to us. 1 <hi>Theſſalonians</hi> 2.8. and <hi>Act.</hi> 4.34, 35. Well then, ſo long as we or any other imployed for the publique, continue Drunkards, Swearers, Adulterers, Hypocrites. It is impoſſible we can be truly publique ſpirited.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> We muſt ſtudy the Art of ſelf denyall; if ever we meane to be men of publique ſpirits; ſelf-love will never carry any man beyond himſelf. <hi>If any man will
+<pb n="18" facs="tcp:55792:12"/>come after me</hi> (ſaith Chriſt) <hi>let him deny himſelf,</hi> &amp;c. No coming after Chriſt, no ſerving of the publique, but by ſelf-denyall: hence the Apoſtle 2 <hi>Tim.</hi> 3.2, 3. joynes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſelf-lovers, and <hi>men with<g ref="char:EOLhyphen"/>out naturall affections</hi> together. Let us ſeriouſly lay our hands on our hearts, and ſee what ſelfiſhneſſe there is in any our actions,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> If we would truly ſeek the good of others, we muſt walke regularly; not according to our own ſence and opinion. In a ſtorme, when the ſhip is like to be caſt away, every paſſenger muſt not turne Pilot. In a diſ<g ref="char:EOLhyphen"/>eaſe of the body (if we regard our own health,) we will not willingly commit our ſelves to every unskil<g ref="char:EOLhyphen"/>full, and illiterate Mountebanke. <hi>Iudicium regni eſt certa vivendi regula.</hi> The Paliament is the rule of right reaſon to a nation. Let every man be a Refor<g ref="char:EOLhyphen"/>mer, but let it be of himſelf; not of thoſe that are ſet in place and power, to reforme things that are amiſſe both in Church and State. Let us follow, not go be<g ref="char:EOLhyphen"/>fore the authority ſet over us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> In this we muſt do things with all our might, Ec<g ref="char:EOLhyphen"/>cleſ. 9.10. <hi>Whatſoever thou findeſt to do, do it with all thy might, Hoc age,</hi> make the publique thy buſineſſe. Many both in Church, and Common wealth will be found to do much miſchiefe, by doing little good: by keeping men more active then themſelves out of their places; I ſuppoſe it to be true in ſome Mini<g ref="char:EOLhyphen"/>ſters, in ſome Magiſtrats, in many Parliament men, and in ſome Commanders. If therefore we will be men of publique ſpirits indeed; let us in managing of the publique, act <hi>ad ultimum vicium,</hi> to our utmoſt power, and abilities. Let not any of us be as ſo many
+<pb n="19" facs="tcp:55792:12"/>Cyphers that ſerve for nothing elſe but to fill upon the roome, and to make up the number.</p>
+            <p>If theſe things were rightly practiſed, there would not be ſo many that would ſeeke their own things, and not the things of others. But now leaſt any man ſhould be diſheartned, I ſhall conclude all with a word of comfort and encouragement to all thoſe that are publique ſpirited men indeed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>4</label> To all thoſe that have neglected their own parti<g ref="char:EOLhyphen"/>culars, in reference to the publique, I ſhall deſire to ſpeak thus much. It may be the Church or State may miſcarry in theſe ſad calamities, comfort your ſelves, it ſhall not be laid to your charge, you may read <hi>Ezech.</hi> 9.4. That thoſe who did mourne for the abominations that were committed in the land, had a marke ſet upon their foreheads, to the end that when the deſtroyer did paſſe through the land, they might be ſpared. There be two things in a common calamity, there is a common deſtruction, and a com<g ref="char:EOLhyphen"/>mon diſtraction, or as it is <hi>Deut.</hi> 32.25. there is <hi>the ſword without, and the terrour within.</hi> I cannot promiſe any, the beſt man in the world freedom from the common deſtruction, or the ſword without. But this I dare promiſe you, becauſe God hath promiſed it, <hi>Iſa.</hi> 43.2, 3. that you ſhall be freed from the com<g ref="char:EOLhyphen"/>mon diſtraction, <hi>from feare within:</hi> Beſides, this ar<g ref="char:EOLhyphen"/>gues truth of Chriſtianity: when we ſeek not every one his own things, but every one alſo the things of others.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
